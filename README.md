@@ -1,20 +1,7 @@
-<div align="center">
-  <table background="https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif" width="100%" style="background-size: cover; background-position: center; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 60px 20px;">
-        <h1 style="font-family: monospace; color: #FFFFFF; text-shadow: 0 0 10px #D000FF, 0 0 25px #9D4EDD, 0 0 45px #7B2CBF, 0 0 70px #240046, 0 0 100px #00FFFF; font-size: 3.5rem; margin: 0; letter-spacing: 6px; font-weight: 900;">
-          AuraCoder777
-        </h1>
-        <p style="font-family: monospace; color: #E0AAFF; font-size: 1rem; margin-top: 15px; font-weight: bold; letter-spacing: 3px; text-shadow: 0 0 8px #9D4EDD;">
-          🌌 EXPLORING THE DIGITAL COSMOS
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
----
+[[<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/banner.png" width="100%"/>
+</p>](https://raw.githubusercontent.com/AuraCoder777/AuraCoder777/main/assets/ChatGPT%20Image%20May%2026%2C%202026%2C%2009_01_52%20PM.png)
+---](https://raw.githubusercontent.com/AuraCoder777/AuraCoder777/main/assets/ChatGPT%20Image%20May%2026%2C%202026%2C%2009_01_52%20PM.png)
 
 
 
