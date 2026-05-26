@@ -1,21 +1,22 @@
-<!-- GREEN DIGITAL RAIN HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;CSC+Student+%7C+AI+Enthusiast;Self-Taught+Programmer;100+Days+of+C+Challenge;Turning+Logic+Into+Code..." />
-</p>
+<div align="center">
+  <table background="https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif" width="100%" style="background-size: cover; background-position: center; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 60px 20px;">
+        <h1 style="font-family: monospace; color: #FFFFFF; text-shadow: 0 0 10px #D000FF, 0 0 25px #9D4EDD, 0 0 45px #7B2CBF, 0 0 70px #240046, 0 0 100px #00FFFF; font-size: 3.5rem; margin: 0; letter-spacing: 6px; font-weight: 900;">
+          AuraCoder777
+        </h1>
+        <p style="font-family: monospace; color: #E0AAFF; font-size: 1rem; margin-top: 15px; font-weight: bold; letter-spacing: 3px; text-shadow: 0 0 8px #9D4EDD;">
+          🌌 EXPLORING THE DIGITAL COSMOS
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- USERNAME BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=220&section=header&text=AuraCoder777&fontSize=45&fontColor=00ff00&animation=fadeIn&fontAlignY=38"/>
-</p>
-
+<br/>
 ---
 
-<!-- DIGITAL RAIN IMAGE (0/1 EFFECT) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d0d2V0c2VqM2J2Z2F5d2Z1eW1lZ2V2Z2J2dW9rY2R5d2J4aGJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif" width="800"/>
-</p>
 
----
 
 # 👋 Who Am I
 
@@ -98,7 +99,16 @@
 
 ---
 
-<!-- GREEN RAIN FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff00,100:000000&height=120&section=footer"/>
-</p>
+<br/>
+
+<div align="center">
+  <table background="https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif" width="100%" style="background-size: cover; background-position: center; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <p style="font-family: monospace; color: #ffffff; font-size: 0.9rem; margin: 0; opacity: 0.8; letter-spacing: 2px;">
+          🛸 END OF TRANSMISSION // GROUND CONTROL TO AURACODER777
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
