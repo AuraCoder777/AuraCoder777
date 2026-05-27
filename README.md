@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AuraCoder777/AuraCoder777/main/assets/banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AuraCoder777/AuraCoder777/main/assets/ChatGPT%20Image%20May%2026%2C%202026%2C%2009_01_52%20PM.png" width="100%"/>
 </p>
-
 
 
 # 👋 Who Am I
